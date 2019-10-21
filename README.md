@@ -11,7 +11,9 @@
 
 
 # Results on OSIE-CFPS and GrabCut
-   We provide results of the compared 7 methods (GrapgCut, RandomEalk, GSC, GBOS, SOS, AVS and SegNet) and our method on 2 datasets: [OSIE-CFPS](https://pan.baidu.com/s/1mXofcSOxrTyjOz-Z-nJtZA&shfl=sharepset) and [GrabCut](https://pan.baidu.com/s/1KbzOwaNwSikw7nJuQJuUbg&shfl=sharepset).
+   We provide results of the compared 7 methods (GrapgCut, RandomWalk, GSC, GBOS, SOS, AVS and SegNet) and our method on 2 datasets: [OSIE-CFPS](https://pan.baidu.com/s/1mXofcSOxrTyjOz-Z-nJtZA&shfl=sharepset) and [GrabCut](https://pan.baidu.com/s/1KbzOwaNwSikw7nJuQJuUbg&shfl=sharepset).
+   
+   The results of GrabCut dataset are one of the 4 runs.
 
   
 # Testing
