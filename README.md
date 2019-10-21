@@ -1,11 +1,13 @@
 # CFP-Seg
    This project provides the code and results for 'Constrained fixation point based segmentation via deep neural network', Neurocomputing 2019. [Paper link](https://www.sciencedirect.com/science/article/pii/S0925231219311890).
+   
    Our code is implemented based on the Caffe of Amulet. You can first install and compile the caffe according to the [Amulet](https://github.com/Pchank/caffe-sal). 
 
 
 # OSIE-CFPS Dataset
    We build a new dataset based on OSIE dataset for 'Constrained Fixation Point based Segmentation' task, you can downlown the dataset [here](https://pan.baidu.com/s/18_Cc2NmbUdhYEaLX2dEHCQ&shfl=sharepset).
-   OSIE-CFPS contains 3,683 images with corresponding fixation density maps and groundtruths, divided into training set (3,075 images) and testing set (608 images).
+  
+  OSIE-CFPS contains 3,683 images with corresponding fixation density maps and groundtruths, divided into training set (3,075 images) and testing set (608 images).
 
 
 # Results on OSIE-CFPS and GrabCut
