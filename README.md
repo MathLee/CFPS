@@ -31,7 +31,7 @@
                 pages={180-187},
                 year = {2019},
                 month={Nov.},
-                doi= {doi.org/10.1016/j.neucom.2019.08.051},}
+                doi= {10.1016/j.neucom.2019.08.051},}
 
 
 If you encounter any problems with the code, want to report bugs, etc.
