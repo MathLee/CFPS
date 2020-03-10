@@ -28,9 +28,9 @@
                 title = {Constrained fixation point based segmentation via deep neural network},
                 journal = {Neurocomputing},
                 volume = {368},
-                pages={180-187},
+                pages = {180-187},
                 year = {2019},
-                month={Nov.},
+                month = {Nov.},
                 doi= {10.1016/j.neucom.2019.08.051},}
 
 
