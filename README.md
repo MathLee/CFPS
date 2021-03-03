@@ -21,6 +21,9 @@
 2. Run `matlab/FDM_test/test_model.m`.
 3. Results of OSIE-CFPS are under `models/FDM/OSIE/binary_FDM_test/`; results of GrabCut are under `models/FDM/GrabCut_database/binary_result/`.
 
+# Related works on this task
+   (**TIP_2021_OLBPNet**) [Personal Fixations-Based Object Segmentation with Object Localization and Boundary Preservation](https://github.com/MathLee/OLBPNet4PFOS).
+
 
 # Citation
         @ARTICLE{Li_2019_NEUCOM,
