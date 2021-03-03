@@ -30,11 +30,10 @@
                 author = {Li, Gongyang and Liu, Zhi and Shi, Ran and Wei, Weijie},
                 title = {Constrained fixation point based segmentation via deep neural network},
                 journal = {Neurocomputing},
+                year = {2019},
                 volume = {368},
                 pages = {180-187},
-                year = {2019},
-                month = {Nov.},
-                doi= {10.1016/j.neucom.2019.08.051},}
+                month = {Nov.},}
 
 
 If you encounter any problems with the code, want to report bugs, etc.
