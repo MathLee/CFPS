@@ -1,5 +1,5 @@
 # CFPS
-   This project provides the code and results for 'Constrained fixation point based segmentation via deep neural network', Neurocomputing 2019. [Paper link](https://www.sciencedirect.com/science/article/pii/S0925231219311890).
+   This project provides the code and results for 'Constrained fixation point based segmentation via deep neural network', Neurocomputing 2019. [Paper link](https://www.sciencedirect.com/science/article/pii/S0925231219311890) [Homepage](https://mathlee.github.io/)
    
    Our code is implemented based on the Caffe of Amulet. You can first install and compile the caffe according to the [Amulet](https://github.com/Pchank/caffe-sal). 
 
